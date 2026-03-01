@@ -13,4 +13,4 @@ hello git! hello newlife!
 hello git! hello newlife!
 hello git! hello newlife!
 hello git! hello newlife!
-hello git! hello newlife!
+hello git! hello newlife! hot-fix test
